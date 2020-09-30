@@ -1,0 +1,5 @@
+C:\Users\rodrigo.sbrito\source\repos\JokenPo\bin\Debug\JokenPo.exe
+C:\Users\rodrigo.sbrito\source\repos\JokenPo\bin\Debug\JokenPo.pdb
+C:\Users\rodrigo.sbrito\source\repos\JokenPo\obj\Debug\JokenPo.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.sbrito\source\repos\JokenPo\obj\Debug\JokenPo.exe
+C:\Users\rodrigo.sbrito\source\repos\JokenPo\obj\Debug\JokenPo.pdb
